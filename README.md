@@ -17,6 +17,8 @@
 - [1]	A. S. P. Pamula, D. J. Lampert, and H. K. Atiyeh, “Well-to-wake analysis of switchgrass to jet fuel via a novel co-fermentation of sugars and CO2,” Science of The Total Environment, vol. 782, p. 146770, Aug. 2021, doi: 10.1016/j.scitotenv.2021.146770.
 - [2]	Y.-T. Hung, A. Pamula, and H. Paul, “Treatment of Combined Acid Black 48 and Coffee Wastewater by Low-Cost Adsorbents,” Environmental Research, Engineering and Management, vol. 76, no. 3, Art. no. 3, Sep. 2020, doi: 10.5755/j01.erem.76.3.25338.
 - [3]	A. S. P. Pamula, H. Gholizadeh, M. J. Krzmarzick, W. E. Mausbach, and D. J. Lampert, “A remote sensing tool for near real-time monitoring of harmful algal blooms and turbidity in reservoirs,” JAWRA Journal of the American Water Resources Association,           vol. 59, no. 5, pp. 929–949, 2023, doi: 10.1111/1752-1688.13121.
-- [4]	A. Pamula, Y.-T. Hung, and H. Paul, “Utilization of Agro-based Adsorbents in Binary Wastewater Treatment,” Journal of Environmental Science and Pollution Research, vol. 7, no. 1, pp. 451–454, Jun. 2021, doi: 10.30799/jespr.213.21070103.
-- [5]	Abhiram Siva Prasad Pamula, Yung-Tse Hung And Howard H Paul, “Treatment of Combined Disperse Yellow 3 and Coffee Wastewater by Low-Cost Agro-based Adsorbents,” IJMTST, no. 8, pp. 247–253, Aug. 2020, doi: 10.46501/IJMTST060841.
+- [4]	A. Pamula, Y.-T. Hung, and H. Paul, “Utilization of Agro-based Adsorbents in Binary Wastewater Treatment,” Journal of Environmental Science and Pollution Research, vol. 7, no. 1, pp. 451–454, Jun. 2021, doi:         10.30799/jespr.213.21070103.
+- [5]	Abhiram Siva Prasad Pamula, Yung-Tse Hung And Howard H Paul, “Treatment of Combined Disperse Yellow 3 and Coffee Wastewater by Low-Cost Agro-based Adsorbents,” IJMTST, no. 8, pp. 247–253, Aug. 2020, doi:           10.46501/IJMTST060841.
+- [6]	A. S. P. Pamula, A. Ravilla, and S. V. H. Madiraju, “Applications of the Internet of Things (IoT) in Real-Time Monitoring of Contaminants in the Air, Water, and Soil,” Engineering Proceedings, vol. 27, no. 1,     Art. no. 1, 2022, doi: 10.3390/ecsa-9-13335.
+
 
