@@ -1,8 +1,10 @@
 title: Abhiram Pamula
 logo: /assets/img/headshot.png
-#description: text below image
-show_description: Environmental and Water Resources Engineer, Marquette University
+affiliation: Marquette University
 email: abhiramsivaprasad.pamula@marquette.edu, abhiram.pamula@gmail.com
+
+#description: text below image
+google_scholar: https://scholar.google.com/
 
 show_downloads: true
 theme: jekyll-theme-minimal
