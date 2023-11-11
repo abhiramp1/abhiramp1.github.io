@@ -1,5 +1,5 @@
  # Intro
-Environmental, Water Resources, and Geospatial Researcher at Marquette University. Ph.D. in Civil Engineering with an emphasis in Environmental Engineering with 7+ years of combined professional experience in research, teaching, and coding. Certified Geospatial analyst in Hydrology with a history of working on research projects with the Bureau of Reclamation and the United States Geological Survey.
+- Environmental, Water Resources, and Geospatial Researcher at Marquette University. Ph.D. in Civil Engineering with an emphasis in Environmental Engineering with 7+ years of combined professional experience in research, teaching, and coding. Certified Geospatial analyst in Hydrology with a history of working on research projects with the Bureau of Reclamation and the United States Geological Survey.
 
 # Education
 - Ph.D., Civil Engineering | Oklahoma State University (July 2022)
@@ -14,4 +14,5 @@ Environmental, Water Resources, and Geospatial Researcher at Marquette Universit
 
 # Publications
 ## Journal Publications
+[1]	A. S. P. Pamula, D. J. Lampert, and H. K. Atiyeh, “Well-to-wake analysis of switchgrass to jet fuel via a novel co-fermentation of sugars and CO2,” Science of The Total Environment, vol. 782, p. 146770, Aug. 2021, doi: 10.1016/j.scitotenv.2021.146770.
 
