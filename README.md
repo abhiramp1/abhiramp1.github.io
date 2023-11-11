@@ -1,2 +1,2 @@
-# Portfolio
-My personal portfolio
+# Intro
+Environmental, Water Resources and Geospatial Researcher at Marquette University. Ph.D. in Civil Engineering with an emphasis in Environmental Engineering with 7+ years of combined professional experience in research, teaching, and coding. Certified Geospatial analysist in Hydrology with history of working on research projects with Bureau of Reclamation and United States Geological Survey.
