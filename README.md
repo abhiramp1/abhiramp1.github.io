@@ -28,6 +28,6 @@
 ## Conference Presentations
 - [1]	**A. Pamula**, D. J. Lampert, and H. Atiyeh, “Well-to-Wake Analysis of Switchgrass to Butanol Via Co-Fermentation of Sugar and Gas with Subsequent Conversion to Jet Fuel,” presented at the 2019 AIChE Annual Meeting, AIChE, Nov. 2019. Accessed: Nov. 11, 2023. [Online]. Available: [https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/570266].
 - [2]	**A. S. P. Pamula**, M. Jdiobe, D. Lampert, J. Jacob, and M. Krzmarzick, “Monitoring harmful algal blooms in Marion and Grand Reservoirs using unmanned systems Methods and Results. Conclusions,” Dec. 13, 2021. doi: [https://doi.org/10.13140/RG.2.2.22440.65283].
-- [3]	A. S. P. Pamula, D. J. Lampert, J. Jacob, and M. J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. [Online]. Available: [https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract].
+- [3]	**A. S. P. Pamula**, D. J. Lampert, J. Jacob, and M. J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. [Online]. Available: [https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract].
 
 
