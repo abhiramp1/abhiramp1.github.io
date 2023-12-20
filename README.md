@@ -9,6 +9,7 @@
 # Work Experience
 ## Postdoctoral researcher | Marquette University (2023 - Present)
 - Remote sensing of Stormwater infrastructure using multispectral imagery
+  
 ## Postdoctoral researcher | Oklahoma State University (2022 - 2023)
 - Modeling Harmful Algal Blooms in freshwater bodies using unmanned systems
 
