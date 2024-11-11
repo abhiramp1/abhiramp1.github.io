@@ -1,10 +1,10 @@
 author:
   title: Abhiram S.P. Pamula
-logo: /assets/img/headshot.png
   affiliation: Marquette University
   email: 
     - abhiramsivaprasad.pamula@marquette.edu
     - abhiram.pamula@gmail.com
+logo: /assets/img/headshot.png
 social:
   github: https://github.com/abhiramp1
 show_downloads: true
