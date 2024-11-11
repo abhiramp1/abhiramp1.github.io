@@ -14,13 +14,4 @@ theme: jekyll-theme-minimal
 description: |
   Postdoctoral Researcher specializing in water resources and remote sensing applications. Current research focuses on hyperspectral remote sensing for stormwater management and non-native plant species detection.
 
-# Projects Section (Example)
-projects:
-  - title: Multispectral Remote Sensing for Stormwater Management
-    description: Using advanced remote sensing techniques to improve land use strategies.
-    link: /projects/stormwater-management
-
-  - title: Non-Native Plant Detection Using Remote Sensing
-    description: Leveraging hyperspectral data for invasive species identification.
-    link: /projects/plant-detection
 
