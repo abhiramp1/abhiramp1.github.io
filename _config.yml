@@ -1,17 +1,17 @@
 title: Abhiram S.P. Pamula
 logo: /assets/img/headshot.png
 affiliation: Marquette University
-social:
-  google_scholar: "https://scholar.google.com/citations?user=YrTbCmsAAAAJ&hl=en&oi=ao"
-  linkedin: "https://www.linkedin.com/in/asppamula"
-  github: "https://github.com/abhiramp1"
 show_downloads: true
 theme: jekyll-theme-minimal
 
 description: |
   Postdoctoral Researcher specializing in water resources and remote sensing applications. Current research focuses on multispectral remote sensing for stormwater management and non-native plant species detection.
-  email: 
+email: 
   - abhiramsivaprasad.pamula@marquette.edu
   - abhiram.pamula@gmail.com
+social:
+  google_scholar: "https://scholar.google.com/citations?user=YrTbCmsAAAAJ&hl=en&oi=ao"
+  linkedin: "https://www.linkedin.com/in/asppamula"
+  github: "https://github.com/abhiramp1"
 
 
