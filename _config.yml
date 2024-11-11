@@ -8,7 +8,7 @@ google_scholar: https://scholar.google.com/citations?user=YrTbCmsAAAAJ&hl=en&oi=
 linkedin: https://www.linkedin.com/in/asppamula
 github: https://github.com/abhiramp1
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-chirpy
 
 # Optional Sections
 description: |
