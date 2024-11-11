@@ -1,11 +1,11 @@
-title: Abhiram S.P. Pamula
+author:
+  title: Abhiram S.P. Pamula
 logo: /assets/img/headshot.png
-affiliation: Marquette University
-email: 
-  - abhiramsivaprasad.pamula@marquette.edu
-  - abhiram.pamula@gmail.com
+  affiliation: Marquette University
+  email: 
+    - abhiramsivaprasad.pamula@marquette.edu
+    - abhiram.pamula@gmail.com
 social:
-  google_scholar: https://scholar.google.com/citations?user=YrTbCmsAAAAJ&hl=en&oi=ao
   github: https://github.com/abhiramp1
 show_downloads: true
 theme: jekyll-theme-minimal
