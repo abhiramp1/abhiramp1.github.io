@@ -34,16 +34,17 @@
 
 ## Conference Presentations
 - [1] **Abhiram S.P. Pamula**, Omar Hegazy, Walter McDonald. “Detection and Mapping of Invasive Plant Species in Urban Stormwater Infrastructure using Remote Sensing”. AGU Fall Meeting, 2024 (December 2024)
-- [2] **Abhiram S.P. Pamula**, Walter McDonald. “Assessment of Invasive Plant Stress on Green Urban Stormwater Infrastructure Using Remote Sensing and Machine Learning”, presented at 2024 World Environmental and Water Resources Congress, ASCE - EWRI, Online link: [https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo].
-- [3]	**Abhiram S.P. Pamula**, David J. Lampert, Jamey D. Jacob, Mark J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. Online link: [https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract].
-- [4] **Abhiram S.P. Pamula**, David J. Lampert, “Water quality monitoring and modeling using unmanned systems”. 2022 Virtual HAB Symposium, 2022. (January 2022). Click to see the presentation:
-<!-- Button to Open Link -->
+- [2] **Abhiram S.P. Pamula**, Walter McDonald. “Assessment of Invasive Plant Stress on Green Urban Stormwater Infrastructure Using Remote Sensing and Machine Learning”, presented at 2024 World Environmental and Water Resources Congress, ASCE - EWRI, Online link:
+  <!-- Button to Open Link -->
 <button id="openLink">View 2022 HAB monitoring/modeling Presentation</button>
 <script>
   document.getElementById("openLink").addEventListener("click", function() {
-    window.open("https://doi.org/10.13140/RG.2.2.22440.65283", "_blank");
+    window.open("https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo");
   });
 </script>
+- [3]	**Abhiram S.P. Pamula**, David J. Lampert, Jamey D. Jacob, Mark J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. Online link: [https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract].
+- [4] **Abhiram S.P. Pamula**, David J. Lampert, “Water quality monitoring and modeling using unmanned systems”. 2022 Virtual HAB Symposium, 2022. (January 2022). Click to see the presentation:
+
 - [5] **Abhiram S.P. Pamula**, Muwanika Jdiobe, David J. Lampert, Jamey D. Jacob, and Mark J. Krzmarzick, “Monitoring harmful algal blooms in Marion and Grand Reservoirs using unmanned systems Methods and Results. Conclusions,” Dec. 13, 2021. Click to see Abstract:
 <!-- Button to Open Link -->
 <button id="openLink">View 2021 Abstract</button>
