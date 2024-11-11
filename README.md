@@ -37,10 +37,8 @@
 - [5] **Abhiram S.P. Pamula**, Muwanika Jdiobe, David J. Lampert, Jamey D. Jacob, and Mark J. Krzmarzick, “Monitoring harmful algal blooms in Marion and Grand Reservoirs using unmanned systems Methods and Results. Conclusions,” Dec. 13, 2021. doi: [https://doi.org/10.13140/RG.2.2.22440.65283].
 - [6] **Abhiram S.P.Pamula**, David J. Lampert, Hasan K. Atiyeh, "Life Cycle Assessment of Switchgrass to Jet Fuel via a Novel Co-fermentation of Sugars and Gas", presented at the 2020 ASABE Annual International Meeting, ASABE, Online link: [https://www.asabe.org/Portals/0/21AIM_Session_Listing.pdf].
 - [7] **Abhiram S.P. Pamula**, David J. Lampert, Hasan K. Atiyeh, “Well-to-Wake Analysis of Switchgrass to Butanol Via Co-Fermentation of Sugar and Gas with Subsequent Conversion to Jet Fuel”, presented at the 2019 AIChE Annual Meeting, AIChE, Nov. 2019. Available:
-</head>
 <!-- Button to Open Link -->
 <button id="openLink">View AIChE Abstract</button>
-
 <script>
   document.getElementById("openLink").addEventListener("click", function() {
     window.open("https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/570266", "_blank");
