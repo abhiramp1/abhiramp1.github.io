@@ -1,6 +1,7 @@
 # Intro
 - Environmental, Water Resources, and Geospatial Researcher at Marquette University. Ph.D. in Civil Engineering with an emphasis in Environmental Engineering with 7+ years of combined professional experience in research, teaching, and coding. Certified Geospatial analyst in Hydrology with a history of working on research projects with the Bureau of Reclamation and the United States Geological Survey.
 - Here is my Google scholar and Linkedin profiles
+- <a href="https://scholar.google.com/citations?user=YrTbCmsAAAAJ&hl=en&oi=ao">👔 Google Scholar</a>
 - <a href="https://www.linkedin.com/in/asppamula">👔 LinkedIn</a>
 
 # Education
