@@ -43,7 +43,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Interactive Link</title>
 </head>
-<body>
+</html>
 
 <!-- Button to Open Link -->
 <button id="openLink">View AIChE Abstract</button>
@@ -54,7 +54,5 @@
   });
 </script>
 
-</body>
-</html>.
 
 
