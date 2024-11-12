@@ -36,23 +36,21 @@
 - [1] **Abhiram S.P. Pamula**, Omar Hegazy, Walter McDonald. “Detection and Mapping of Invasive Plant Species in Urban Stormwater Infrastructure using Remote Sensing”. AGU Fall Meeting, 2024 (December 2024)
 - [2] **Abhiram S.P. Pamula**, Walter McDonald. “Assessment of Invasive Plant Stress on Green Urban Stormwater Infrastructure Using Remote Sensing and Machine Learning”, presented at 2024 World Environmental and Water Resources Congress, ASCE - EWRI, Online link:
  <!--First Button element -->
-<button class="link-button" onclick="openLink()">2024 EWRI Abstract</button>
+<button class="link-button" onclick="openLink('ewri2024')">2024 EWRI Abstract</button>
 
 <script>
-    function openLink() {
-        window.location.href = "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo";
+    function openLink(type) {
+        if (type === 'ewri2024') {
+            window.location.href = "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo";
+        } else if (type === 'agu2022') {
+            window.location.href = "https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract";
+        }
     }
 </script>
 
 - [3]	**Abhiram S.P. Pamula**, David J. Lampert, Jamey D. Jacob, Mark J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. Online link: 
- <!--Second Button element -->
-<button class="link-button" onclick="openLink()">2022 AGU Abstract</button>
-
-<script>
-    function openLink() {
-        window.location.href = "https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract";
-    }
-</script>
+<!-- Second Button element -->
+<button class="link-button" onclick="openLink('agu2022')">2022 AGU Abstract</button>
 - [4] **Abhiram S.P. Pamula**, David J. Lampert, “Water quality monitoring and modeling using unmanned systems”. 2022 Virtual HAB Symposium, 2022. (January 2022). Click to see the presentation:
 
 - [5] **Abhiram S.P. Pamula**, Muwanika Jdiobe, David J. Lampert, Jamey D. Jacob, and Mark J. Krzmarzick, “Monitoring harmful algal blooms in Marion and Grand Reservoirs using unmanned systems Methods and Results. Conclusions,” Dec. 13, 2021. Click to see Abstract:
