@@ -35,22 +35,9 @@
 ## Conference Presentations
 - [1] **Abhiram S.P. Pamula**, Omar Hegazy, Walter McDonald. “Detection and Mapping of Invasive Plant Species in Urban Stormwater Infrastructure using Remote Sensing”. AGU Fall Meeting, 2024 (December 2024)
 - [2] **Abhiram S.P. Pamula**, Walter McDonald. “Assessment of Invasive Plant Stress on Green Urban Stormwater Infrastructure Using Remote Sensing and Machine Learning”, presented at 2024 World Environmental and Water Resources Congress, ASCE - EWRI, Online link:
- <!--First Button element -->
-<button class="link-button" onclick="openLink('ewri2024')">2024 EWRI Abstract</button>
-
-<script>
-    function openLink(type) {
-        if (type === 'ewri2024') {
-            window.location.href = "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo";
-        } else if (type === 'agu2022') {
-            window.location.href = "https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract";
-        }
-    }
-</script>
-
+ 
 - [3]	**Abhiram S.P. Pamula**, David J. Lampert, Jamey D. Jacob, Mark J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. Online link: 
-<!-- Second Button element -->
-<button class="link-button" onclick="openLink('agu2022')">2022 AGU Abstract</button>
+
 - [4] **Abhiram S.P. Pamula**, David J. Lampert, “Water quality monitoring and modeling using unmanned systems”. 2022 Virtual HAB Symposium, 2022. (January 2022). Click to see the presentation:
 
 - [5] **Abhiram S.P. Pamula**, Muwanika Jdiobe, David J. Lampert, Jamey D. Jacob, and Mark J. Krzmarzick, “Monitoring harmful algal blooms in Marion and Grand Reservoirs using unmanned systems Methods and Results. Conclusions,” Dec. 13, 2021. Click to see Abstract:
@@ -63,5 +50,20 @@ Click to see the presentation
 - [7] **Abhiram S.P. Pamula**, David J. Lampert, Hasan K. Atiyeh, “Well-to-Wake Analysis of Switchgrass to Butanol Via Co-Fermentation of Sugar and Gas with Subsequent Conversion to Jet Fuel”, presented at the 2019 AIChE Annual Meeting, AIChE, Nov. 2019. Click to see Abstract:
 
 
+<!-- Button elements -->
+<button class="link-button" onclick="openLink('ewri2024')">2024 EWRI Abstract</button>
+<button class="link-button" onclick="openLink('agu2022')">2022 AGU Abstract</button>
+<button class="link-button" onclick="openLink('vhab2022')">2022 VHAB Symposium Abstract</button>
+<button class="link-button" onclick="openLink('agu2021')">2021 AGU Abstract</button>
+
+<script>
+    // Object to store link URLs
+    const links = {
+        ewri2024: "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo",
+        agu2022: "https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract",
+        vhab2022: "https://youtu.be/NPpFiQqL_OU?si=foveTCCCoELvpm4V", 
+        agu2021: "https://www.researchgate.net/publication/364810860_Monitoring_harmful_algal_blooms_in_Marion_and_Grand_Reservoirs_using_unmanned_systems_Methods_and_Results_Conclusions",
+      
+    };
 
 
