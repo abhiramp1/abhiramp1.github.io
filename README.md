@@ -36,10 +36,14 @@
 - [1] **Abhiram S.P. Pamula**, Omar Hegazy, Walter McDonald. “Detection and Mapping of Invasive Plant Species in Urban Stormwater Infrastructure using Remote Sensing”. AGU Fall Meeting, 2024 (December 2024)
 - [2] **Abhiram S.P. Pamula**, Walter McDonald. “Assessment of Invasive Plant Stress on Green Urban Stormwater Infrastructure Using Remote Sensing and Machine Learning”, presented at 2024 World Environmental and Water Resources Congress, ASCE - EWRI, Online link:
   
- <!-- First Button -->
-<button class="openLink" data-url="https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo">
-  View 2022 HAB monitoring/modeling Presentation
-</button>
+ <!-- Button element -->
+<button class="link-button" onclick="openLink()">Visit GitHub</button>
+
+<script>
+    function openLink() {
+        window.location.href = "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresenterId=1783052&mode=presenterinfo";
+    }
+</script>
 
 - [3]	**Abhiram S.P. Pamula**, David J. Lampert, Jamey D. Jacob, Mark J. Krzmarzick, “Understanding Harmful Algal Blooms using Unmanned Systems and Water Quality Models,” vol. 2022, pp. H12H-07, Dec. 2022. Online link:
 
