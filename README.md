@@ -44,7 +44,4 @@
 
 - [6] **Abhiram S.P.Pamula**, David J. Lampert, Hasan K. Atiyeh, "Life Cycle Assessment of Switchgrass to Jet Fuel via a Novel Co-fermentation of Sugars and Gas", presented at the 2020 ASABE Annual International Meeting, ASABE, Click to see Abstract listing:
 
-Click to see the presentation
-
-
 - [7] **Abhiram S.P. Pamula**, David J. Lampert, Hasan K. Atiyeh, “Well-to-Wake Analysis of Switchgrass to Butanol Via Co-Fermentation of Sugar and Gas with Subsequent Conversion to Jet Fuel”, presented at the 2019 AIChE Annual Meeting, AIChE, Nov. 2019. Click to see Abstract:
