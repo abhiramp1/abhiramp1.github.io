@@ -48,22 +48,3 @@ Click to see the presentation
 
 
 - [7] **Abhiram S.P. Pamula**, David J. Lampert, Hasan K. Atiyeh, “Well-to-Wake Analysis of Switchgrass to Butanol Via Co-Fermentation of Sugar and Gas with Subsequent Conversion to Jet Fuel”, presented at the 2019 AIChE Annual Meeting, AIChE, Nov. 2019. Click to see Abstract:
-
-
-<!-- Button elements -->
-<button class="link-button" onclick="openLink('ewri2024')">2024 EWRI Abstract</button>
-<button class="link-button" onclick="openLink('agu2022')">2022 AGU Abstract</button>
-<button class="link-button" onclick="openLink('vhab2022')">2022 VHAB Symposium Abstract</button>
-<button class="link-button" onclick="openLink('agu2021')">2021 AGU Abstract</button>
-
-<script>
-    // Object to store link URLs
-    const links = {
-        ewri2024: "https://ewricongress2024.eventscribe.net/fsPopup.asp?PresentationID=1384928&mode=presInfo",
-        agu2022: "https://ui.adsabs.harvard.edu/abs/2022AGUFM.H12H..07P/abstract",
-        vhab2022: "https://youtu.be/NPpFiQqL_OU?si=foveTCCCoELvpm4V", 
-        agu2021: "https://www.researchgate.net/publication/364810860_Monitoring_harmful_algal_blooms_in_Marion_and_Grand_Reservoirs_using_unmanned_systems_Methods_and_Results_Conclusions",
-      
-    };
-
-
